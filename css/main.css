@@ -83,6 +83,10 @@ body {
   padding-bottom: 92px;
   background-color: #faf7f0;
 }
+.profile h4{
+letter-spacing:1em;
+ line-height:1px;
+}
 
 .profile__title,
 .prepare__title,
