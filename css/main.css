@@ -84,8 +84,8 @@ body {
   background-color: #faf7f0;
 }
 .profile h4{
-letter-spacing:2px;
- line-height:2px;
+letter-spacing:2em;
+ line-height:2em;
 }
 
 .profile__title,
